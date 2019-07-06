@@ -59,3 +59,5 @@ else if (a === "scissors"){
         
     }
 }
+
+//push
